@@ -23,7 +23,7 @@ incremental==17.5.0
 itsdangerous==0.24
 jieba==0.39
 kombu==4.1.0
-lxml==4.1.1
+lxml==4.6.2
 olefile==0.44
 parsel==1.4.0
 Pillow==4.3.0
